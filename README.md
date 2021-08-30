@@ -1,12 +1,7 @@
 # Project 3 : BST
 ### Made for data structures course fall 2019
 
-### Instructions I was given for this homework project (full PDF in files)
-Attention!!! We will not use the templated stack class for this assignment.
-For this assignment you must implement a BST which stores strings. Your BST must implement all size of
-the basic operations we have talked about in class.
-You should then write a program that allows a user to interact with an instance of the BST you have
-implemented. This program should implement a text-based interface that allows the user to:
+### Instructions I was given for this homework project
 
 1. Create an empty BST. This should warn the user they are deleting the existing BST and ask them
 if they wish to proceed. Remind the user they can save the contents of their BST to a file.
